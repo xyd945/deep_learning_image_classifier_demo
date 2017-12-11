@@ -32,4 +32,5 @@ $ pip install tensorflow      # Python 2.7; CPU support (no GPU support)
  # Step 2: download the training pic
  in Tensorflow for poets tutorial, they use some flower pic to training,  but we are going to have some fun to train any pictures you can think of. To download a batch of pictures, the easiest way is to use Google Chrome and download pic from google image search using "Fatkun batch download image" or any other Chrome add-ons. 
  
- Save your same category pic into the same folder, name that folder wisely (e.g., name without space). and then put those categories folder into one folder called Pic. 
+ Save your same category pic into the same folder, name that folder wisely (e.g., name without space, I gave a bad example, but in this case, it worked). and then put those categories folder into one folder called Pic. 
+ ![alt text](https://github.com/xyd945/deep_learning_image_classifier_demo/blob/master/folder_pic.PNG)
